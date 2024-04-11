@@ -1,0 +1,13 @@
+/* @font-face {
+    font-family: 'Giaza';
+    src: url('Giaza.otf') format('OpenType');
+    font-weight: 900;
+} */
+@font-face {
+    font-family: 'Vintage Moon';
+    src: url('vintage-moon.ttf') format('TrueType');
+    font-weight: 500;
+}
+.main .main-body h3{
+    font-family: 'Vintage Moon';
+}
